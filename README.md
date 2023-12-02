@@ -3,7 +3,7 @@
  // SPDX-License-Identifier: MIT
  pragma solidity ^0.8.0;
 
-contract Educhain {
+contract Edusafe {
     uint256 public paymentCount;
     mapping(uint256 => bool) public paymentReceived;
     
